@@ -1,3 +1,6 @@
+# Some Example Forms (for options 2 & 9)
+![forms 2 and 9](https://i.imgur.com/tp5QxFk.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
